@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+  background: linear-gradient(rgb(229, 123, 123), #2d8cbb);
+  padding: 0.3rem;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.header {
+  font-family: Verdana;
+  color: rgb(100, 199, 221);
+}
