@@ -4,10 +4,10 @@ import Context from '../../Context';
 import Content from '../Content';
 import DateTime from '../DateTime';
 import Error from '../Error';
-import Title from './Title/Index';
 import WeatherSearch from '../WeatherSearch';
 import WeatherData from '../WeatherData';
 import style from './style.module.css';
+import Title from '../Title/Index';
 
 const API_KEY = '9fc63206d560646d110d35702c4781ca';
 
